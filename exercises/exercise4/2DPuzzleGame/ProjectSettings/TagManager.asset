@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Trap
+  - TrapTrigger
+  - DestoryLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundLayer
+  - Player
+  - CameraLayerTop
+  - CameraLayerBot
+  - UnvisibleTrigLayer
+  - BackGroundTop
+  - BackGroundBot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGroundColor
+    uniqueID: 2060431679
+    locked: 0
+  - name: Ground
+    uniqueID: 3552844981
+    locked: 0
+  - name: Player
+    uniqueID: 4135371189
+    locked: 0
